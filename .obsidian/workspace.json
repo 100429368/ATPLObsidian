@@ -155,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/probando.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ca26d6e9444467a",
+  "active": "4ea3eb1ed01349a2",
   "lastOpenFiles": [
     "Meteorologia/3 Atmospheric Pressure/6 Summary Table/probando.md",
     "Meteorologia/3 Atmospheric Pressure/6 Summary Table/prueba1221321.md"
