@@ -1,0 +1,3 @@
+prhaseology expects the pilot to BEGIN THE TRANSMISSION WITH THEIR CALLSIGNS
+
+CALLSIGN - NAME OF THE FIX - DIRECTION RELATIVE TO THE FIX ( in or outbound)

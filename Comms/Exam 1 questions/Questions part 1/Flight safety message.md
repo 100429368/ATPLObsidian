@@ -1,0 +1,1 @@
+Are the ATC messages, then is of immediate concern to an aircraft in flight or preparing to depart.

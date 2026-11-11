@@ -1,0 +1,1 @@
+Approach with vertical guidance. It is an instrument procedure which utilises lateral and vertial guidance but does not meet the requirements estabilished for precision approach and landing operations.

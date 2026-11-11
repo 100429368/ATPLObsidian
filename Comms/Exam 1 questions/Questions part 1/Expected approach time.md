@@ -1,0 +1,1 @@
+The time at which ATC expects that an arriving aircraf, following a delay, will leave the holding point to complete its approach for a landing

@@ -1,0 +1,1 @@
+Severe turbulences message is a flight safety message
