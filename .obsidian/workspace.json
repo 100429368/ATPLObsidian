@@ -11,10 +11,14 @@
             "id": "4ea3eb1ed01349a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/PC PRUEBA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "PC PRUEBA"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/PC PRUEBA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/PC PRUEBA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/PC PRUEBA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,6 +202,7 @@
   },
   "active": "4ea3eb1ed01349a2",
   "lastOpenFiles": [
+    "Meteorologia/3 Atmospheric Pressure/6 Summary Table/PC PRUEBA.md",
     "Meteorologia/3 Atmospheric Pressure/6 Summary Table/probando.md",
     "Meteorologia/3 Atmospheric Pressure/6 Summary Table/prueba1221321.md"
   ]
