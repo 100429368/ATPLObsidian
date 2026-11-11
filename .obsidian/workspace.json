@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/prueba1221321.md",
+                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/probando.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prueba1221321"
+              "title": "probando"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/prueba1221321.md",
+                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/probando.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/prueba1221321.md",
+                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/probando.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/prueba1221321.md",
+                "file": "Meteorologia/3 Atmospheric Pressure/6 Summary Table/probando.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,5 +201,8 @@
     }
   },
   "active": "4ea3eb1ed01349a2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Meteorologia/3 Atmospheric Pressure/6 Summary Table/probando.md",
+    "Meteorologia/3 Atmospheric Pressure/6 Summary Table/prueba1221321.md"
+  ]
 }
