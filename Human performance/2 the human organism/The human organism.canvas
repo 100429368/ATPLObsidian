@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"835a459aa4dc69d7","x":-292,"y":842,"width":400,"height":400,"type":"file","file":"Human performance/2 the human organism/2 Human cells/Human cells.md"},
+		{"id":"7bf250947491d2c5","x":200,"y":842,"width":400,"height":400,"type":"file","file":"Human performance/2 the human organism/2 Human cells/Types of cells.md"},
+		{"id":"e221b93be9786834","x":-292,"y":1356,"width":450,"height":340,"type":"file","file":"Human performance/2 the human organism/3 Homeostasis/Homeostasis.md"},
+		{"id":"7a831951b04a1cec","x":200,"y":1356,"width":560,"height":524,"type":"file","file":"Human performance/2 the human organism/4 Stimulus and response/Adaption and Habituation.md"},
+		{"id":"717b06897532b460","x":1720,"y":612,"width":605,"height":460,"type":"file","file":"Human performance/2 the human organism/5 Propioceptos and mechanoreceptors/Propioceptors and mechanoreceptors.md"},
+		{"id":"87bbf61e65082bf5","x":1720,"y":1242,"width":687,"height":278,"type":"file","file":"Human performance/2 the human organism/5 Propioceptos and mechanoreceptors/Pressure receptors.md"},
+		{"id":"220cc135abb91152","x":960,"y":682,"width":575,"height":674,"type":"file","file":"Human performance/2 the human organism/4 Stimulus and response/Thresholds and Responses.md"},
+		{"id":"4f30bf008f5c6506","x":480,"y":259,"width":445,"height":511,"type":"file","file":"Human performance/2 the human organism/1 Basic body architecture/Nervous system.md"},
+		{"id":"4fffc919e4bdd422","x":-96,"y":289,"width":496,"height":451,"type":"file","file":"Human performance/2 the human organism/1 Basic body architecture/Endocrine System.md"}
+	],
+	"edges":[
+		{"id":"b094bed13cc7533c","fromNode":"835a459aa4dc69d7","fromSide":"right","toNode":"7bf250947491d2c5","toSide":"left"},
+		{"id":"8a1876a0ad084f99","fromNode":"220cc135abb91152","fromSide":"right","toNode":"717b06897532b460","toSide":"left"},
+		{"id":"16866b0ada819065","fromNode":"220cc135abb91152","fromSide":"right","toNode":"87bbf61e65082bf5","toSide":"left"},
+		{"id":"2b774636480e12eb","fromNode":"7a831951b04a1cec","fromSide":"right","toNode":"220cc135abb91152","toSide":"left"}
+	]
+}

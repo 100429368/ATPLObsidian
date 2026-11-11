@@ -1,0 +1,1 @@
+Pitot and static pressure sensors are very sensitive to disturbances in airflow,so they always have to be mounted away from the cockpit instruments that they supply.

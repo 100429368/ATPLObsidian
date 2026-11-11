@@ -1,0 +1,3 @@
+Oxygen enters the blood via the lungs and its carried to the cells.
+De-oxygenated blood returns from the cellls. The pulmonary circulation,is a dedicated circuit which supplies de-oxygenated blood directly from the right side of the heart to the lungs via the pulmonary artery. The oxygenated blood leavingthe lungs flows back to the heart via the pulmonary veins.
+This is the only exception to the rule: VENIS CARRY DE OXYGENATED BLOOD.

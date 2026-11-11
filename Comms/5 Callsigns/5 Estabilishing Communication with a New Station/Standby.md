@@ -1,0 +1,1 @@
+When instructing to 'standby' ,the aircraftcalling should wait silently for a further message

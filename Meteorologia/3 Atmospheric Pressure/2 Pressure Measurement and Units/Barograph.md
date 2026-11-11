@@ -1,0 +1,2 @@
+Is an aneroid barometer which records pressure agains timton a motorised cylindrical per chart. A record of pressure changes allows the user to see trends. 
+(Es un barometro con un lapiz como lo q pinta lo del corazon)

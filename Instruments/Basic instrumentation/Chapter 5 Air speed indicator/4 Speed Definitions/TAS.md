@@ -1,0 +1,1 @@
+True airspeed is the speed of the aircraft through the air. TAS is EAS corrected for density error.

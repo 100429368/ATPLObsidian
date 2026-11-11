@@ -1,0 +1,1 @@
+The heart requires a relatively large flow of blood to its muscle. If coronary bloodflowbecomes restricted, it canlead to [[Angina]] and[[Human performance/3 Cardiovascular System/5 Disorders of the heart/Heart Attack]]

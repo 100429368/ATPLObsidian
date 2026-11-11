@@ -1,0 +1,2 @@
+IAS
+Indicated Airspeed: The speed of an aircraft as shown on its pitot static airspeed indicator,calibrated to reflect standard atmostphere adiabatic compressible flow at sea level uncorrected for airspeed system errors.

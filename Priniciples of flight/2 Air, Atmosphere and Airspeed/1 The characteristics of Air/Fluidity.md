@@ -1,0 +1,2 @@
+Agluid is liquid,  or a gas that has an ability to flow. Without other influences, a body of air flows smoothly and uniformly in a continuous,stable and predictable stream.
+When it encounters an object, the air attempts to flow around it. 

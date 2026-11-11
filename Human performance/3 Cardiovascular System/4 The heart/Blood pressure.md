@@ -1,0 +1,1 @@
+Is measured in mmHg. Systolic pressure is about 120 and diastolic is about 80mmHg

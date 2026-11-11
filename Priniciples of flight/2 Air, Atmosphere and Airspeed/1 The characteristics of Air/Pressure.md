@@ -1,0 +1,2 @@
+
+$Pressure = \frac{force}{area}$

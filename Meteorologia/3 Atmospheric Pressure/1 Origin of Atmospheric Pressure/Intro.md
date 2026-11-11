@@ -1,0 +1,1 @@
+During "bad weather" the atmospheric pressure tends to be lower.

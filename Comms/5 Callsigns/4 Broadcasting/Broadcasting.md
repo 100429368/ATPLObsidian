@@ -1,0 +1,1 @@
+If an ATS unit wishes to pass information to all aircraft on the frequency,use the 'All stations'may be used to indicate it. No response is request. 

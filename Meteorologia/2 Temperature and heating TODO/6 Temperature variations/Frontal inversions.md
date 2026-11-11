@@ -1,0 +1,2 @@
+They form at the boundaries between warm and cold air. Due to their different densities, the heavier,colder air slides under the warmer, lighter air. With cold air at the surface and warmerair above it a frontal inversion is created. P/E:
+![[Pasted image 20261106164427.png]]

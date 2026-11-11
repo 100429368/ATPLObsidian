@@ -1,0 +1,2 @@
+AoA gives auseful indication ofyour approximatespeed. It is accurate enough to safe flight while systems are recovered provided that the AoA snesors are still reliable
+![[Pasted image 20261105202857.png]]

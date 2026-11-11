@@ -1,0 +1,1 @@
+Its a 'mechanical computer'. It is a mechanical device and may be subject to manufacturing deviations, causing minor errors.

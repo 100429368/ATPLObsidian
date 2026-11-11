@@ -1,0 +1,1 @@
+* **Simple Altimeter**: it has only one capsule and one pointer hand. This means the capsule movement is limitedand the scale is very coarse. From 0 to 10k ft in one revolution. Theres no way to enter a reference pressure.

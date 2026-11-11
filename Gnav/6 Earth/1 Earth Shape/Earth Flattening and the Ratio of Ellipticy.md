@@ -1,0 +1,1 @@
+Ratio 0 of flattening in an ellipsoid means it is completely spherical

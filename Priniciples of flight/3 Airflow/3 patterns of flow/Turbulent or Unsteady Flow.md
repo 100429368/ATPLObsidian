@@ -1,0 +1,1 @@
+If airflow past an unstreamlined object with rough surface, like a landing gear

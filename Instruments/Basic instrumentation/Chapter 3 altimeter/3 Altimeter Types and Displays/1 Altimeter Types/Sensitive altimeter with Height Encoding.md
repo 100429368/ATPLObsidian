@@ -1,0 +1,1 @@
+**Sensitive altimeter with Height Encoding**: this is then transmitedto ATC when mode C is selectedon the transponder. The altitude info is referenced to 1013.25hPa. It is the most basic acceptable in controlled airspace,but its not very accurate.  

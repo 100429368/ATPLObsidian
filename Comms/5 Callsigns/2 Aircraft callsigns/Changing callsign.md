@@ -1,0 +1,1 @@
+The change is temporary and lastsonly while both flights using the same frequency. Sometimes controller will warn pilots if there is another aircraft on frequecy with a similar callsign.

@@ -1,0 +1,3 @@
+During the descent,the ambient static pressure increases. This increase is inmmediately sensed inside the capsule.
+
+Because of the delay imposed in the metering unit the increase in static pressure is not immediately sensed inside the instrument case. Static pressure inside the case is less than the static pressure inside the capsule. As a result the capsule expands. The VSI needle indicates a rate of descent.

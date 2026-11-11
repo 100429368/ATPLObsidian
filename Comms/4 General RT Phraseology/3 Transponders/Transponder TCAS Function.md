@@ -1,0 +1,1 @@
+TCAS Traffic collision Avoidance System, is installed in the aircraft that processes information received from SSR returns of proximate traffic. The system then compares this information with the flight path of its own aircraft and issues automatic traffic advisores and avoiding instructions if necessary.

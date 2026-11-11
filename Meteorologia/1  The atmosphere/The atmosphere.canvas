@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"1d02ea8cc333ed32","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Stratosphere.md","x":1176,"y":280,"width":444,"height":420},
+		{"id":"44680f54def2a1d0","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Mesosphere.md","x":1176,"y":760,"width":400,"height":400},
+		{"id":"f102e80b27cc6524","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Ionosphere.md","x":1176,"y":1800,"width":564,"height":240},
+		{"id":"3d596eec651b3372","type":"file","file":"Meteorologia/1  The atmosphere/5 ICAO Standard Atmosphere/ISA examples.md","x":440,"y":880,"width":380,"height":600},
+		{"id":"b1ced42a5ef9ac22","type":"file","file":"Meteorologia/1  The atmosphere/4 Atmospheric Pressure/Atmospheric pressure.md","x":440,"y":420,"width":620,"height":375},
+		{"id":"2661ea22c3ea9e3e","type":"file","file":"Meteorologia/1  The atmosphere/2 Composition of the atmosphere/Composition of the atmosphere.md","x":-591,"y":565,"width":488,"height":1331},
+		{"id":"fdef53c7fc96180a","type":"file","file":"Meteorologia/1  The atmosphere/1 Introduction/Definition.md","x":-347,"y":25,"width":497,"height":255},
+		{"id":"9734bf3c4cc5c81c","type":"file","file":"Meteorologia/1  The atmosphere/5 ICAO Standard Atmosphere/The international Standard Atmosphere ISA.md","x":-28,"y":565,"width":357,"height":1140},
+		{"id":"4cb64b44ad877f76","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Thermosphere.md","x":1176,"y":1280,"width":624,"height":360},
+		{"id":"3d647c8f408ab57c","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Structure of the Atmosphere.md","x":482,"y":-820,"width":538,"height":1020},
+		{"id":"f1047512cebe2aaf","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Tropopause.md","x":1680,"y":-1540,"width":400,"height":500},
+		{"id":"cd47e091b704b5e1","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Tropopause Temperature.md","x":2360,"y":-1940,"width":580,"height":430},
+		{"id":"dadc6ea19346ac2b","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Tropopause Folds.md","x":2445,"y":-1460,"width":410,"height":620},
+		{"id":"3921f1e3e56f6c85","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Troposphere.md","x":1120,"y":-1630,"width":400,"height":680},
+		{"id":"ff9812817728436a","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/The ozone layer.md","x":1740,"y":310,"width":740,"height":360},
+		{"id":"8e30e21164c7cb13","type":"file","file":"Meteorologia/1  The atmosphere/5 ICAO Standard Atmosphere/ISA Deviation.md","x":260,"y":1826,"width":480,"height":140},
+		{"id":"a13fa9765dcb95f6","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Tropopause Height.md","x":2360,"y":-770,"width":640,"height":1000},
+		{"id":"7d82d59e9a9c7505","type":"file","file":"Meteorologia/1  The atmosphere/3 Structure of the Atmosphere/Clouds above tropopause.md","x":1620,"y":-600,"width":480,"height":500}
+	],
+	"edges":[
+		{"id":"2ec2a089b98040da","fromNode":"3921f1e3e56f6c85","fromSide":"right","toNode":"f1047512cebe2aaf","toSide":"left"},
+		{"id":"595dd1a085e22acc","fromNode":"f1047512cebe2aaf","fromSide":"right","toNode":"cd47e091b704b5e1","toSide":"left"},
+		{"id":"621011e0ad358a23","fromNode":"f1047512cebe2aaf","fromSide":"right","toNode":"dadc6ea19346ac2b","toSide":"left"},
+		{"id":"c276e01de80c6efb","fromNode":"f1047512cebe2aaf","fromSide":"right","toNode":"a13fa9765dcb95f6","toSide":"left"},
+		{"id":"ab97dbc84b54699a","fromNode":"f1047512cebe2aaf","fromSide":"right","toNode":"7d82d59e9a9c7505","toSide":"top"},
+		{"id":"4295d3fff610c7fc","fromNode":"3d647c8f408ab57c","fromSide":"right","toNode":"3921f1e3e56f6c85","toSide":"left"},
+		{"id":"9f7ac5a0603b8029","fromNode":"3d647c8f408ab57c","fromSide":"right","toNode":"1d02ea8cc333ed32","toSide":"left"},
+		{"id":"565163ba4c64f54b","fromNode":"3d647c8f408ab57c","fromSide":"right","toNode":"44680f54def2a1d0","toSide":"left"},
+		{"id":"27d000be1d33a52e","fromNode":"3d647c8f408ab57c","fromSide":"right","toNode":"1d02ea8cc333ed32","toSide":"left"},
+		{"id":"8d9bbbeea13e8f26","fromNode":"3d647c8f408ab57c","fromSide":"right","toNode":"f102e80b27cc6524","toSide":"left"},
+		{"id":"2a21685e54854817","fromNode":"3d647c8f408ab57c","fromSide":"right","toNode":"4cb64b44ad877f76","toSide":"left"},
+		{"id":"0cde7978edc36f45","fromNode":"1d02ea8cc333ed32","fromSide":"right","toNode":"ff9812817728436a","toSide":"left"},
+		{"id":"e47592326f1bdda5","fromNode":"9734bf3c4cc5c81c","fromSide":"right","toNode":"3d596eec651b3372","toSide":"left"},
+		{"id":"73dc2980f1ff71ef","fromNode":"9734bf3c4cc5c81c","fromSide":"bottom","toNode":"8e30e21164c7cb13","toSide":"left"},
+		{"id":"53fcb812fd110ee2","fromNode":"fdef53c7fc96180a","fromSide":"right","toNode":"3d647c8f408ab57c","toSide":"left"},
+		{"id":"09ece4d264c8b1de","fromNode":"fdef53c7fc96180a","fromSide":"bottom","toNode":"2661ea22c3ea9e3e","toSide":"top"},
+		{"id":"29fcc3fced8f9c66","fromNode":"fdef53c7fc96180a","fromSide":"bottom","toNode":"9734bf3c4cc5c81c","toSide":"top"},
+		{"id":"c7f531165df4de17","fromNode":"fdef53c7fc96180a","fromSide":"right","toNode":"b1ced42a5ef9ac22","toSide":"left"}
+	]
+}

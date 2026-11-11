@@ -1,0 +1,1 @@
+The mass contained within a column of air in the atmosphere is not statc,it moves up and down. This affects the distribution of mass int he column,and therefore affects the pressure change with height. The main cause of this redistriution of mas is temperature.

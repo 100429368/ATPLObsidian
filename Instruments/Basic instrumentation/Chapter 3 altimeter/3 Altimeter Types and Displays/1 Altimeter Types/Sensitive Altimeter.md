@@ -1,0 +1,2 @@
+
+* **Sensitive altimeter**: its common in a light aircraft. More accurate than the simple altimeter, it acepts a REFERENCE. ![[Pasted image 20261026203320.png]] It has a stack of 2 or 3 capsules. Multiplepoints for accurate. Lag is reduced by using jewelled bearings and electric knocking device in the gear/linkage train, to overcome the friction. Referece pressure is set using a rotatory knob. 

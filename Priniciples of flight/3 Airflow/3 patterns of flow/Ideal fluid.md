@@ -1,0 +1,2 @@
+* Incompressible
+* Has no viscosity

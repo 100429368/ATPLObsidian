@@ -1,0 +1,1 @@
+Indicated airspeed,is the airspeed indicated on the ASI

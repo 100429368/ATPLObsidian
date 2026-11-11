@@ -1,0 +1,2 @@
+* Hand held compass
+The typical portableterrestrialone. Its needle points to the magnetic north.  Theneedle comprises a magnet balanced on a fine point to minimise friction. The needle is inmersed in clear fluid do dampen out its oterwise other sensitive movements.
